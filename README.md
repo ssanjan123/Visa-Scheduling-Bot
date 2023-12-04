@@ -22,5 +22,5 @@ To access the code and for any further information or discussion about the Visa 
 
 ## Fun Personal Project
 
-This was a fun personal project to see if I could get an earlier date for my USA Visa Appointment. I was able to convert my 1.5 years wait time to a 4 month wait period, that too running the bot only for a few days.
+This was a fun personal project to see if I could get an earlier date for my USA Visa Appointment. I was able to convert my 1.5 years wait time to a few months wait period, that too running the bot only for a few days.
 I appreciate your interest in the Visa Scheduling Bot project. While I cannot share the source code publicly, I am more than happy to provide information and engage in discussions about the project. Please feel free to reach out to me at the provided email address for any inquiries or collaboration opportunities.
