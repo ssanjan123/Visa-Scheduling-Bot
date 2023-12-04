@@ -12,7 +12,7 @@ The bot runs autonomously and can be run on a task scheduler like the built in W
 
 ## Video Overview - https://github.com/ssanjan123/Visa-Scheduling-Bot/blob/main/Demo.mp4
 
-To get an in-depth understanding of how the Visa Scheduling Bot works, we have prepared a comprehensive video demonstration. In this video, you will see the bot in action, performing various tasks related to visa appointment scheduling.
+To get an in-depth understanding of how the Visa Scheduling Bot works, I have prepared a comprehensive video demonstration. In this video, you will see the bot in action, performing various tasks related to visa appointment scheduling.
 
 Unfortunately, I cannot provide direct access to the source code of the bot due to legal regulations and sensitive information. However, the video demonstration will give you a clear idea of its functionality and capabilities.
 
