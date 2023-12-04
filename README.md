@@ -10,7 +10,7 @@ Welcome to the Visa Scheduling Bot project! This README provides an overview of 
 The Visa Scheduling Bot is designed to streamline the visa application scheduling process. It automates various tasks involved in scheduling visa appointments, making the process more efficient.
 The bot runs autonomously and can be run on a task scheduler like the built in Windows task scheduler and set it to every minute. The bot would automaticaly go to the visa scheduling site and look for the earliest date it finds. The main idea is that a lot of people would cancel their appointments and this bot would use logic and comparison to go and everytime compare the current time that the user has a slot in and compare it with the earliest date it finds. If the date found is earlier than the user's current date then the bot automatically changes the scheduled time.
 
-## Video Overview
+## Video Overview - https://github.com/ssanjan123/Visa-Scheduling-Bot/blob/main/Demo.mp4
 
 To get an in-depth understanding of how the Visa Scheduling Bot works, we have prepared a comprehensive video demonstration. In this video, you will see the bot in action, performing various tasks related to visa appointment scheduling.
 
